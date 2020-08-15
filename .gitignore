@@ -27,4 +27,4 @@ public/
 test-results.xml
 .yarnclean
 .npm-debug.log
-.idea
+.ideanode_modules

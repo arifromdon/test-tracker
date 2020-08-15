@@ -1,0 +1,32 @@
+
+.table-responsive{
+  min-height: 100%;
+  height: 40vh;
+  overflow-y: scroll;
+
+  .table-list-category {
+
+    tr {
+      td{
+        vertical-align: middle;
+        border-bottom: 1px solid #dee2e6;
+        border-top: 0px;
+      }
+
+      .section-{
+        &umkm {
+          color: #4082B1;
+          font-size: 12px;
+          font-weight: bold;
+          margin-bottom: 0;
+        }
+
+        &price {
+          color: #000000;
+          font-size: 20px;
+          font-weight: bold;
+        }
+      }
+    }
+  }
+}

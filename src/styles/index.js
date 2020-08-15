@@ -1,0 +1,7 @@
+import 'bootstrap/dist/css/bootstrap.css'
+import './base.scss'
+import './card.scss'
+import './input.scss'
+import './form.scss'
+import './button.scss'
+import './table.scss'

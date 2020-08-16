@@ -22,7 +22,7 @@ tmp/
 coverage/
 .env
 .bundle/
-public/
+# public/
 .eslintcache
 test-results.xml
 .yarnclean
